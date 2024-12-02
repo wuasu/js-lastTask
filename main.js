@@ -1,4 +1,6 @@
-import './assets/scss/all.scss';
-import 'bootstrap/dist/js/bootstrap.min.js';
+import "./assets/scss/all.scss";
+import "bootstrap/dist/js/bootstrap.min.js";
 
-console.log("Hello world!");
+import "./pages/config.js";
+import "./pages/index-animation.js";
+import "./pages/index.js";
